@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS, NextJS MongoDB, MySQL**
 
-- 📫 How to reach me: **nguyenkhangdev@gmail.com**
-
 - 🎯 My hobbies: **Coding, traveling, and practicing calisthenics**
 
 ---
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:nguyenkhangdev@gmail.com" target="_blank">📧 Gmail</a> <br/>
+  <a href="mailto:nguyenkhangdev@gmail.com" target="_blank">📧 Gmail: nguyenkhangdev@gmail.com</a> <br/>
   <a href="https://github.com/nguyenkhangdev" target="_blank">💻 Github: nguyenkhangdev</a> <br/>
   <a href="https://www.facebook.com/nguyenkhang289" target="_blank">📘 Facebook: Trần Nguyên Khang</a>
 </p>
